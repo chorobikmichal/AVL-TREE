@@ -1,6 +1,5 @@
 Michal Chorobik
 0937145
-Assignment 4
 November 28,2016
 
 This program is a program that reads data from a file and stores it in an avl tree form. When its run the main menu is printed onto the screen. There are 7 options. First option allows for the user to enter the name of the file 
